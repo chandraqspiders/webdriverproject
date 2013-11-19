@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="settings" duration-ms="3" started-at="2013-11-19T07:47:46Z" finished-at="2013-11-19T07:47:46Z">
+    <groups>
+    </groups>
+    <test name="settings" duration-ms="3" started-at="2013-11-19T07:47:46Z" finished-at="2013-11-19T07:47:46Z">
+      <class name="com.qspiders.hybridframework.settings.CreateBilling">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qspiders.hybridframework.settings.CreateBilling@105e55ab]" name="beforeClass" is-config="true" duration-ms="0" started-at="2013-11-19T13:17:46Z" finished-at="2013-11-19T13:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.qspiders.hybridframework.settings.CreateBilling@105e55ab]" name="afterMethod" is-config="true" duration-ms="1" started-at="2013-11-19T13:17:46Z" finished-at="2013-11-19T13:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testCreateBilling()[pri:0, instance:com.qspiders.hybridframework.settings.CreateBilling@105e55ab]" name="testCreateBilling" duration-ms="0" started-at="2013-11-19T13:17:46Z" finished-at="2013-11-19T13:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateBilling -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qspiders.hybridframework.settings.CreateBilling@105e55ab]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2013-11-19T13:17:46Z" finished-at="2013-11-19T13:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qspiders.hybridframework.settings.CreateBilling@105e55ab]" name="afterClass" is-config="true" duration-ms="0" started-at="2013-11-19T13:17:46Z" finished-at="2013-11-19T13:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.qspiders.hybridframework.settings.CreateBilling -->
+    </test> <!-- settings -->
+  </suite> <!-- settings -->
+  <suite name="customers" duration-ms="21" started-at="2013-11-19T07:47:46Z" finished-at="2013-11-19T07:47:46Z">
+    <groups>
+    </groups>
+    <test name="customers" duration-ms="21" started-at="2013-11-19T07:47:46Z" finished-at="2013-11-19T07:47:46Z">
+      <class name="com.qspiders.hybridframework.customers.CreateCustomer">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qspiders.hybridframework.customers.CreateCustomer@3a6ac461]" name="beforeClass" is-config="true" duration-ms="9" started-at="2013-11-19T13:17:46Z" finished-at="2013-11-19T13:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qspiders.hybridframework.customers.CreateCustomer@3a6ac461]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2013-11-19T13:17:46Z" finished-at="2013-11-19T13:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCreateCustomer()[pri:0, instance:com.qspiders.hybridframework.customers.CreateCustomer@3a6ac461]" name="testCreateCustomer" duration-ms="1" started-at="2013-11-19T13:17:46Z" finished-at="2013-11-19T13:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateCustomer -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.qspiders.hybridframework.customers.CreateCustomer@3a6ac461]" name="afterMethod" is-config="true" duration-ms="0" started-at="2013-11-19T13:17:46Z" finished-at="2013-11-19T13:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qspiders.hybridframework.customers.CreateCustomer@3a6ac461]" name="afterClass" is-config="true" duration-ms="1" started-at="2013-11-19T13:17:46Z" finished-at="2013-11-19T13:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.qspiders.hybridframework.customers.CreateCustomer -->
+    </test> <!-- customers -->
+  </suite> <!-- customers -->
+</testng-results>
